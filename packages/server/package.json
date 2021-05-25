@@ -4,7 +4,7 @@
     "private": true,
     "description": "Awesome project developed with TypeORM.",
     "devDependencies": {
-        "@types/express": "4.17.11",
+        "@types/express": "4.17.12",
         "@types/graphql": "14.5.0",
         "@types/node": "15.6.0",
         "cross-env": "7.0.3",
